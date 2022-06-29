@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Optic-mization](https://github.com/easeghehey/Optic-mization)
 
-- 👯 I’m looking to collaborate on **Ratio-bot**
+- 👯 I’m looking to collaborate on [Twitter-Ratio-Bot](https://github.com/easeghehey/Twitter-ratio-bot)
 
 - 💬 Ask me about **anything**
 
