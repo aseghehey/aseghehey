@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=easeghehey&label=Profile%20views&color=0e75b6&style=flat" alt="easeghehey" /> </p>
 
-<p align="left"> <a href="https://twitter.com/emanuelpackas1" target="blank"><img src="https://img.shields.io/twitter/follow/emanuelpackas1?logo=twitter&style=for-the-badge" alt="emanuelpackas1" /></a> </p>
-
 - 🔭 I’m currently working on [Optic-mization](https://github.com/easeghehey/Optic-mization)
 
 - 👯 I’m looking to collaborate on [Twitter-Ratio-Bot](https://github.com/easeghehey/Twitter-ratio-bot)
