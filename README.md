@@ -4,7 +4,7 @@
 
 I'm a software engineer at AWS. I like control-plane problems: capacity and scaling, workflows that recover cleanly when something fails halfway, and the tests and tooling that make that kind of change safe to ship.
 
-Outside of work, I contribute to open-source AWS emulation and build small tools for working alongside coding agents.
+Outside of work, I contribute to open-source AWS emulation and build small tools that make my day-to-day development faster.
 
 ## Open source
 
