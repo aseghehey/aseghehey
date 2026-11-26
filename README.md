@@ -8,7 +8,7 @@ Outside of that, I contribute to an open-source AWS emulator and build small too
 
 ## Floci — local AWS emulation
 
-[Floci](https://github.com/floci-io/floci) is an open-source emulator for AWS services. I contribute through [Andre Kurait's fork](https://github.com/AndreKurait/floci), where I have [52 merged pull requests](https://github.com/AndreKurait/floci/pulls?q=is%3Apr+is%3Amerged+author%3Aaseghehey). The aim is that code written against real AWS behaves the same way locally.
+[Floci](https://github.com/floci-io/floci) is an open-source emulator for AWS services. I contribute through [Andre Kurait's fork](https://github.com/AndreKurait/floci), where I have [over 50 merged pull requests](https://github.com/AndreKurait/floci/pulls?q=is%3Apr+is%3Amerged+author%3Aaseghehey). The aim is that code written against real AWS behaves the same way locally.
 
 - **EC2 networking.** IPv6 for dual-stack VPCs and guests ([#1149](https://github.com/AndreKurait/floci/pull/1149), [#1148](https://github.com/AndreKurait/floci/pull/1148)), attaching network interfaces to running instances ([#1169](https://github.com/AndreKurait/floci/pull/1169)), and VPC endpoint services ([#1152](https://github.com/AndreKurait/floci/pull/1152)).
 - **IAM and KMS authorization.** Evaluating `aws:ResourceTag` against each resource's stored tags ([#1178](https://github.com/AndreKurait/floci/pull/1178)), verifying SigV4A signatures ([#1133](https://github.com/AndreKurait/floci/pull/1133)), and cross-account key use through grants ([#1154](https://github.com/AndreKurait/floci/pull/1154)).
